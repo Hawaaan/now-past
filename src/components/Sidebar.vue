@@ -9,12 +9,13 @@
         'md:translate-x-0 fixed md:relative top-0 left-0 h-full'
       ]"
     >
-      <h2 class="text-2xl font-bold mb-6">MyApp</h2>
-      <ul class="space-y-4">
-        <li><a href="#" class="hover:text-gray-300">Home</a></li>
-        <li><a href="#" class="hover:text-gray-300">About</a></li>
-        <li><a href="#" class="hover:text-gray-300">Services</a></li>
-        <li><a href="#" class="hover:text-gray-300">Contact</a></li>
+      <h2 class="text-2xl font-bold mb-6">dashbord</h2>
+      <ul class="space-y-8 ">
+        <li class="bg-gray-500 rounded shadow-md shadow-gray-300 text-center p-2 hover:text-gray-300"><a href="#">Sell</a></li>
+        <li class="bg-gray-500 rounded shadow-md shadow-gray-300 text-center p-2 hover:text-gray-300"><a href="#">ussers</a></li>
+        <li class="bg-gray-500 rounded shadow-md shadow-gray-300 text-center p-2 hover:text-gray-300"><a href="#">supply</a></li>
+        <li class="bg-gray-500 rounded shadow-md shadow-gray-300 text-center p-2 hover:text-gray-300"><a href="#">Report</a></li>
+         <li class="bg-gray-500 rounded shadow-md shadow-gray-300 text-center p-2 hover:text-gray-300"><a href="#">settings</a></li>
       </ul>
     </div>
 
@@ -36,7 +37,6 @@
               stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
           </svg>
         </button>
-        <h1 class="text-xl font-semibold">Dashboard</h1>
       </div>
 
       <!-- Main Content -->

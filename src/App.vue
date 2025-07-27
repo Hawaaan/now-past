@@ -3,6 +3,7 @@
     <Navbar />
     <Sidebar/>
   <login/>
+  <signUp/>
     <main class="">
     </main>
   </div>
@@ -12,12 +13,14 @@
 import Navbar from './components/Navbar.vue'
 import Sidebar from './components/Sidebar.vue'
 import login from './components/login.vue'
+import signUp from './components/signUp.vue'
 
 export default {
   components: {
     Navbar,
     Sidebar,
-    login
+    login,
+    signUp  
   }
 }
 </script>
